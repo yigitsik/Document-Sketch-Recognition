@@ -11,6 +11,6 @@ pip install requirements.txt
 
 | Blog Post |
 | ------------- |
-| [Document-Scan](https://https://github.com/yigitsik/Homography-Transformation/Document-Sketch-Recognition/Document-Scan) 
-| [Element-Classification-With-Feature-Engineering](https://https://github.com/yigitsik/Homography-Transformation/Document-Sketch-Recognition/Element-Classification-With-Feature-Engineering) 
-| [Utils](https://https://github.com/yigitsik/Homography-Transformation/Document-Sketch-Recognition/Utils) 
+| [Document-Scan](https://https://github.com/yigitsik/Homography-Transformation/Document-Sketch-Recognition/tree/main/Document-Scan) 
+| [Element-Classification-With-Feature-Engineering](https://https://github.com/yigitsik/Homography-Transformation/Document-Sketch-Recognition/tree/main/Element-Classification-With-Feature-Engineering) 
+| [Utils](https://https://github.com/yigitsik/Homography-Transformation/tree/main/Document-Sketch-Recognition/Utils) 
