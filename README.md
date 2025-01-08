@@ -11,6 +11,6 @@ pip install requirements.txt
 
 | Blog Post |
 | ------------- |
-| [Document-Scan](https://https://github.com/yigitsik/Document-Sketch-Recognition/tree/main/Document-Scan) 
-| [Element-Classification-With-Feature-Engineering](https://https://github.com/yigitsik/Document-Sketch-Recognition/tree/main/Element-Classification-With-Feature-Engineering) 
-| [Utils](https://https://github.com/yigitsik/Document-Sketch-Recognition/tree/main/Utils) 
+| [Document-Scan](github.com/yigitsik/Document-Sketch-Recognition/tree/main/Document-Scan) 
+| [Element-Classification-With-Feature-Engineering](github.com/yigitsik/Document-Sketch-Recognition/tree/main/Element-Classification-With-Feature-Engineering) 
+| [Utils](github.com/yigitsik/Document-Sketch-Recognition/tree/main/Utils) 
