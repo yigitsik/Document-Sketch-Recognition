@@ -1,5 +1,16 @@
-Demonstration of 4 point geometric transformation
+# Document / Sketch Recognition
 
-![Ekran görüntüsü 2024-11-04 205416](https://github.com/user-attachments/assets/25f72d55-6cc3-44c2-80a7-ec9fca1599ca)
+*This repository contains various applications on document/sketch processing that I worked on*
 
-![image](https://github.com/user-attachments/assets/5573efcf-25ac-4caa-b5a7-b4c1ec44c318)
+## Requirements if you are running on local system
+```
+pip install requirements.txt
+```
+
+## Contents
+
+| Blog Post |
+| ------------- |
+| [Document-Scan](https://https://github.com/yigitsik/Homography-Transformation/Document-Sketch-Recognition/Document-Scan) 
+| [Element-Classification-With-Feature-Engineering](https://https://github.com/yigitsik/Homography-Transformation/Document-Sketch-Recognition/Element-Classification-With-Feature-Engineering) 
+| [Utils](https://https://github.com/yigitsik/Homography-Transformation/Document-Sketch-Recognition/Utils) 
