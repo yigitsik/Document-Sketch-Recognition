@@ -7,7 +7,7 @@
 
 Elongated objects have distinctive features only in the start, middle and in the end. For that reason three crop is appropriate.
 
-Objects that have close aspect ratio to 1 is can be represented with five crop better.
+Objects that have close aspect ratio to 1 is can be represented with five-crop more accurately.
 
 <img src="diagram1.png" alt="download" width="800">
 
